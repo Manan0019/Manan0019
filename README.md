@@ -47,7 +47,7 @@ A full-stack project management application built using **React.js, Node.js, Exp
 - MySQL relational database
 - Modular full-stack architecture
 
-> [Add your Kanban repository link here.](https://github.com/Manan0019/Kanban-Project.git)
+> [Kanban Project](https://github.com/Manan0019/Kanban-Project.git)
 
 ### 📱 Pankhagram — Full-Stack Social Media Application
 A social media web application built using **React.js, Node.js, and MongoDB**.
